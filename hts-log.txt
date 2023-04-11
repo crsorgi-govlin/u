@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 30 Nov 2022 12:11:17 at http://crsgov.click//web/index.php/auth/birthCertificate/view/B/bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php?id=8751&cont=Anjsjdn +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://crsgov.click//web/index.php/auth/birthCertificate/view/B/bWF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php?id=8751&cont=Anjsjdn -O1 "C:\My Web Sites\ttt" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:11:30	Error: 	"Not Found" (404) at link https://crsgov.click//web/index.php/auth/birthCertificate/view/images/header-top-strip.jpg (from https://crsgov.click//web/index.php/auth/birthCertificate/view/css/style.css)
+12:11:30	Error: 	"Not Found" (404) at link https://crsgov.click//web/index.php/auth/birthCertificate/view/images/herader-right-bg.jpg (from https://crsgov.click//web/index.php/auth/birthCertificate/view/css/style.css)
+12:11:30	Error: 	"Not Found" (404) at link https://crsgov.click//web/index.php/auth/birthCertificate/view/images/top-menu-bg.jpg (from https://crsgov.click//web/index.php/auth/birthCertificate/view/css/style.css)
+12:11:30	Error: 	"Not Found" (404) at link https://crsgov.click//web/index.php/auth/birthCertificate/view/images/top-title-strip.jpg (from https://crsgov.click//web/index.php/auth/birthCertificate/view/css/style.css)
+12:11:30	Error: 	"Not Found" (404) at link https://crsgov.click//web/index.php/auth/birthCertificate/view/images/doted-bull.gif (from https://crsgov.click//web/index.php/auth/birthCertificate/view/css/style.css)
+12:11:30	Error: 	"Not Found" (404) at link https://crsgov.click//web/index.php/auth/birthCertificate/view/images/none-bull.gif (from https://crsgov.click//web/index.php/auth/birthCertificate/view/css/style.css)
+12:11:30	Error: 	"Not Found" (404) at link https://crsgov.click//web/index.php/auth/birthCertificate/view/images/welcome-strip-bg.jpg (from https://crsgov.click//web/index.php/auth/birthCertificate/view/css/style.css)
+12:11:30	Error: 	"Not Found" (404) at link https://crsgov.click//web/index.php/auth/birthCertificate/view/images/busy.gif (from https://crsgov.click//web/index.php/auth/birthCertificate/view/css/style.css)
+12:11:30	Error: 	"Not Found" (404) at link https://crsgov.click//web/index.php/auth/birthCertificate/view/images/cla-edit.jpg (from https://crsgov.click//web/index.php/auth/birthCertificate/view/css/style.css)
+12:11:30	Error: 	"Not Found" (404) at link https://crsgov.click//web/index.php/auth/birthCertificate/view/images/refresh1.png (from https://crsgov.click//web/index.php/auth/birthCertificate/view/css/main.css)
+12:11:30	Error: 	"Not Found" (404) at link https://crsgov.click//web/index.php/auth/birthCertificate/view/images/tooltip-arrow.gif (from https://crsgov.click//web/index.php/auth/birthCertificate/view/css/main.css)
+12:11:30	Error: 	"Not Found" (404) at link https://crsgov.click//web/index.php/auth/birthCertificate/view/images/submit-btn.jpg (from https://crsgov.click//web/index.php/auth/birthCertificate/view/css/main.css)
+12:11:30	Error: 	"Not Found" (404) at link https://crsgov.click//web/index.php/auth/birthCertificate/view/css/jquery.ui.base.css (from https://crsgov.click//web/index.php/auth/birthCertificate/view/css/jquery.ui.all.css)
+12:11:30	Error: 	"Not Found" (404) at link https://crsgov.click//web/index.php/auth/birthCertificate/view/css/jquery.ui.theme.css (from https://crsgov.click//web/index.php/auth/birthCertificate/view/css/jquery.ui.all.css)
+12:11:30	Error: 	"Not Found" (404) at link https://crsgov.click//web/index.php/auth/birthCertificate/view/B/arrows.gif (from https://crsgov.click//web/index.php/auth/birthCertificate/view/js/mm_menu.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 32 links scanned, 16 files written (439827 bytes overall) [226017 bytes received at 17385 bytes/sec], 391370 bytes transferred using HTTP compression in 26 files, ratio 31%, 11.0 requests per connection
+(15 errors, 0 warnings, 0 messages)
